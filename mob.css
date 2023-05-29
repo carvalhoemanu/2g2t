@@ -51,7 +51,21 @@
         height: 120px;
         background-color: aqua;
     }
-
+    .conteudo {
+        display: flex;
+    }
     
 }
+@media screen and (min-width: 768px) {
+    .menu {
+        height: 120px;
+        background-color: rgb(0, 255, 55);
+    }
+    .conteudo {
+        display: grid;
+    }
+     
+    
+}
+
 
