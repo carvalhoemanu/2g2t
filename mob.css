@@ -42,4 +42,16 @@
     width: 100%;
     background-color: greenyellow;
 }
+.img-estilo {
+    width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .menu {
+        height: 120px;
+        background-color: aqua;
+    }
+
+    
+}
 
